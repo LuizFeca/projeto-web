@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <a href="index.php">Voltar</a>
     <div class="container">
         <h1>Equipe de Desenvolvedores</h1>
     </div>
@@ -55,9 +56,12 @@ h1 {
 
 <?php
 $developers = [
-    ['name' => 'teste', 'age' => 28, 'ra' => '123456', 'photo' => 'teste.png'],
-    ['name' => 'teste', 'age' => 28, 'ra' => '123456', 'photo' => 'teste.png'],
-    ['name' => 'Ana Silva', 'age' => 28, 'ra' => '123456', 'photo' => 'teste.png'],
+    ['name' => 'Luiz Fernando Primila Vieira', 'age' => 24, 'ra' => '3024103939', 'photo' => 'luiz.png'],
+    ['name' => 'Matheus Fava de Silva', 'age' => 19, 'ra' => '302302987', 'photo' => 'matheus.png'],
+    ['name' => 'Wendel Medrado Gonçalves', 'age' => 25, 'ra' => '3023102065', 'photo' => 'wendel.png'],
+    ['name' => 'Luciano Cupertino', 'age' => 30, 'ra' => '3023101452', 'photo' => 'luciano.png'],
+    ['name' => 'Luccas Moreira de Melo', 'age' => 21, 'ra' => '3023102981', 'photo' => 'luccas.png'],
+    ['name' => 'Guilherme de Oliveira', 'age' => 30, 'ra' => '3023100591', 'photo' => 'guilherme.png'],
     
 ];
 

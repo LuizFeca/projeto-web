@@ -55,7 +55,7 @@
             </button>
         </div>
         <div class="d-flex">
-            <a href="home.php" class="btn btn-danger me-5">Sair</a>
+            <a href="index.php" class="btn btn-danger me-5">Sair</a>
         </div>
     </nav>
     <br>
